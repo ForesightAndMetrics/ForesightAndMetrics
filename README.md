@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). I lead Work Package 3 in the Foresight and Metrics for the Transformation of Food Land and Water Suystems Initiative in CGIAR 
+- 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). I lead Work Package 3 in the Foresight and Metrics for the Transformation of Food Land and Water Systems Initiative in CGIAR 
 - 👀 I’m interested in the radical democratization of foresight analysis by ensuring FAIR foresight data and metrics and open source foresight tools
 - 🌱 I’m currently setting up the WP3 team in the initiative 
 - 💞️ I’m looking to collaborate on cool foresight and metrics
