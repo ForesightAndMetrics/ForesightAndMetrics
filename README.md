@@ -1,4 +1,9 @@
 ![Foresight and Metrics](https://github.com/ForesightAndMetrics/ForesightAndMetrics/blob/main/CGIAR%20Initiative%20-%20Foresight%20and%20Metrics-03.jpg)
+
+## June 8, 2023
+we are migrating the repository to a new GitHub site that can be found [here](https://github.com/ForesightInitiative) 
+<!---
+
 ## December 16, 2022
 - 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). I lead Work Package 3 in the Foresight and Metrics for the Transformation of Food Land and Water Systems Initiative in CGIAR see: [initiative proposal](https://www.cgiar.org/initiative/24-foresight-and-metrics-to-accelerate-inclusive-and-sustainable-agrifood-system-transformation/). In that capacity I manage this repository.
 - 👀 I’m interested in the radical democratization of foresight analysis by ensuring FAIR foresight data and metrics and open source foresight tools
@@ -20,7 +25,7 @@ Links to other key foresight models and tools that are part of the Foresight and
 ## IMPACT
 IMPACT model [website @IFPRI](https://www.ifpri.org/project/ifpri-impact-model) \
 IMPACT model [GitHub repository](https://github.com/IFPRI/IMPACT)
-
+--->
 
 <!---
 ForesightAndMetrics/ForesightAndMetrics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
